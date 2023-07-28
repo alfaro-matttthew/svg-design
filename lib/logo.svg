@@ -1,0 +1,10 @@
+
+<svg style="border: 1px solid black;" version="1.1"
+width="300" height="300"
+xmlns="http://www.w3.org/2000/svg">
+   
+<rect x="50" y="50" rx="10" ry="10" width="200" height="200" fill="undefined"/>
+   
+<text x="150" y="170" font-size="60" text-anchor="middle" fill="#FFF">SVG</text>
+   
+</svg>
